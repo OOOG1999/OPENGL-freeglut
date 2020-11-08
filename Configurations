@@ -1,0 +1,8 @@
+##Configurations
+1. Download file freeglut<br>
+2. Create an empty project in visual studio<br>
+3. Project properties -> configuration properties -> VC++ directories ->`include directories and library directories`<br>
+4. Linker -> input -> additional dependencies add `"freeglut_static.lib`<br>
+5. Manifest Tools -> Embed Manifest -> No
+
+ 
