@@ -1,0 +1,13 @@
+﻿LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+freeglut_static.lib(fg_window_mswin.obj) : error LNK2001: 无法解析的外部符号 __imp__strdup
+freeglut_static.lib(fg_init_mswin.obj) : error LNK2001: 无法解析的外部符号 __imp__strdup
+freeglut_static.lib(fg_init.obj) : error LNK2001: 无法解析的外部符号 __imp__strdup
+freeglut_static.lib(fg_menu.obj) : error LNK2001: 无法解析的外部符号 __imp__strdup
+freeglut_static.lib(fg_init.obj) : error LNK2001: 无法解析的外部符号 __imp_strcspn
+freeglut_static.lib(fg_init.obj) : error LNK2001: 无法解析的外部符号 __imp_strtok
+freeglut_static.lib(fg_init.obj) : error LNK2001: 无法解析的外部符号 __imp_getenv
+freeglut_static.lib(fg_input_devices.obj) : error LNK2001: 无法解析的外部符号 __imp_getenv
+freeglut_static.lib(fg_init.obj) : error LNK2001: 无法解析的外部符号 __imp___stdio_common_vsscanf
+freeglut_static.lib(fg_gamemode.obj) : error LNK2001: 无法解析的外部符号 __imp___stdio_common_vsscanf
+freeglut_static.lib(fg_joystick_mswin.obj) : error LNK2001: 无法解析的外部符号 __imp_strncpy
+C:\Users\郭子赫\Desktop\1823116_Guo_ZIhe\OpenGL\x64\Release\cw1.exe : fatal error LNK1120: 6 个无法解析的外部命令
